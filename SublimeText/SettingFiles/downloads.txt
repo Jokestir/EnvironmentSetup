@@ -16,4 +16,4 @@ downloads
 * package Turtlestein
 * package gitgutter
 * package sublimerepl
-* 
+* package highlightwords
