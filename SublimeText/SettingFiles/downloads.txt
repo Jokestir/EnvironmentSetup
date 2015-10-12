@@ -15,6 +15,5 @@ downloads
 * package markdownpreview
 * package Turtlestein
 * package gitgutter
-* package pylinter
 * package sublimerepl
 * 
