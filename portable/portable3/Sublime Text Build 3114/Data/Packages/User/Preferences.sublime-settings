@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Github Color Theme/GitHub.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"soda_classic_tabs": true,
+	"theme": "Soda Light 3.sublime-theme"
+}
