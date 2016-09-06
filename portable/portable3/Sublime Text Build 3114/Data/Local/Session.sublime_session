@@ -1,12 +1,241 @@
 {
 	"folder_history":
 	[
+		"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data"
 	],
 	"last_version": 3114,
-	"last_window_id": 1,
+	"last_window_id": 2,
 	"log_indexing": false,
 	"settings":
 	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"try",
+						"try	Try/Except/Else"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 260.0,
+				"last_filter": "liver",
+				"selected_items":
+				[
+					[
+						"liver",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"mark",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"booka",
+						"Bookmarks: Toggle"
+					],
+					[
+						"paclage",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/test.md",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/test.java",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Python.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/test.py",
+				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
+				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable3/Sublime Text Build 3114/Data/Packages/User/Python.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/sublime_test.py",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable3/Sublime Text Build 3114/Data/Packages/User/Plain text.sublime-settings"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"prompt",
+					"open",
+					"new_",
+					"folder",
+					"new",
+					"project",
+					"keys",
+					"project",
+					"},\n",
+					"\" },",
+					"project",
+					"[\n",
+					"_complete_visible\" },",
+					"project",
+					"tabs",
+					"auto_match_enabled",
+					"theme",
+					"italic",
+					"color_theme",
+					"color",
+					"syntax",
+					"color",
+					"theme"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 120.0
+			},
+			"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\chirag.ahuja\\Documents\\GitHub\\environment-setup\\portable\\portable3\\Sublime Text Build 3114\\Data\\Packages\\Default\\Preferences.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -23,6 +252,17 @@
 			},
 			"buffers":
 			[
+				{
+					"contents": "# guess the number game\n\nimport random\n\nname = input(\"Enter your name: \")\n\nprint(\"Well \"+ name +\", I am thinking of a number between 1 and 20\")\n\nnumOfGuesses = 0\n\n    def helloWorld():\n        print('hello')\n\nsecretNum = random.randint(1,20)\nmaxNumberOfGuesses = 5\n\nguessTaken = int(input(\"Take a guess: \"))\n\n\nwhile True:\n    \n    global numOfGuesses\n\n    if numOfGuesses >= 5:\n        print(\"Nope. The number I was thinking of was \" + str(secretNum))\n        break\n    elif guessTaken == secretNum:\n        print(\"Congratulations! You guessed the correct num in \" + str(numOfGuesses+1) + \" ;number of guesses\" )\n        break\n    elif guessTaken < secretNum:\n        print('Your guess is too low')\n        numOfGuesses = numOfGuesses + 1\n        guessTaken = int(input(\"Take another guess: \"))\n    elif guessTaken > secretNum:\n        print(\"Your guess is too high\")\n        numOfGuesses = numOfGuesses + 1\n        guessTaken = int(input(\"Take another guess: \"))\n\n        \n    \n",
+					"file": "/C/Users/chirag.ahuja/Documents/test.py",
+					"file_size": 1011,
+					"file_write_time": 131176477322271569,
+					"settings":
+					{
+						"buffer_size": 979,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -31,17 +271,53 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 135.0,
-				"last_filter": "insta",
+				"height": 110.0,
+				"last_filter": "rremove",
 				"selected_items":
 				[
+					[
+						"rremove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"liver",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"mark",
+						"GitHub Flavored Markdown: Preview"
 					],
 					[
 						"booka",
@@ -63,6 +339,7 @@
 				"height": 126.0,
 				"history":
 				[
+					"sublime.log_commands(True)",
 					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
@@ -77,8 +354,18 @@
 			},
 			"file_history":
 			[
-				"/C/Users/chirag.ahuja/Documents/test.py",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Desktop/settings_wifi_combined/WifiTeamApp/app/src/main/AndroidManifest.xml",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/chirag.ahuja/Documents/test.java",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/XML.sublime-settings",
+				"/C/Users/chirag.ahuja/Desktop/test.java",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/test.md",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Python.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/test.py",
 				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
 				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
 				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
@@ -91,13 +378,14 @@
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 92.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -105,6 +393,23 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"wifi",
+					"prompt",
+					"open",
+					"new_",
+					"folder",
+					"new",
+					"project",
+					"keys",
+					"project",
+					"},\n",
+					"\" },",
+					"project",
+					"[\n",
+					"_complete_visible\" },",
+					"project",
+					"tabs",
+					"auto_match_enabled",
 					"theme",
 					"italic",
 					"color_theme",
@@ -129,14 +434,45 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/chirag.ahuja/Documents/test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 979,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										241,
+										241
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -171,14 +507,14 @@
 			},
 			"output.find_results":
 			{
-				"height": 0.0
+				"height": 120.0
 			},
 			"pinned_build_system": "Packages/Java/JavaC.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,643,104,104,760",
+			"position": "0,2,3,-1,-1,-1,-1,628,234,89,890",
 			"project": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -187,6 +523,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"C:\\Users\\chirag.ahuja\\Documents\\GitHub\\environment-setup\\portable\\portable3\\Sublime Text Build 3114\\Data\\Packages\\Default\\Preferences.sublime-settings"
+					]
 				],
 				"width": 0.0
 			},

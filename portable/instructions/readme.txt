@@ -1,12 +1,13 @@
 cmd line
-go to 
-autocomplete python, java
-markdown
-configure look and feel
-
 ---
 
 ##packages install
+
+- install markdown preview using ctrl + shift + p > install packages
+
+- install livereload using the same procedure
+
+- install githib flavoured markdown preview using the same feature
 
 - install package control from 
 		https://packagecontrol.io/installation#st3
@@ -14,6 +15,11 @@ configure look and feel
 - install styletoken 
 
 		https://packagecontrol.io/packages/StyleToken
+
+
+### keybindings
+
+- transfer Default (Windows).sublime-keymap to data/packages/user
 
 ##theme related 
 

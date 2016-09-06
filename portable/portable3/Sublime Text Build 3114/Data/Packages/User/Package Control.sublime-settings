@@ -2,11 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"LiveReload"
 	],
 	"installed_packages":
 	[
 		"Github Color Theme",
+		"GitHub Flavored Markdown Preview",
 		"jEdit Color Theme",
+		"MarkdownEditing",
 		"Package Control",
 		"StyleToken",
 		"Theme - Soda",

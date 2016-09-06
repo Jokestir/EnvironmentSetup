@@ -1,9 +1,14 @@
 {
 	"color_scheme": "Packages/Github Color Theme/GitHub.tmTheme",
+	"font_face": "Roboto Mono",
+	"font_size": 9.5,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"soda_classic_tabs": true,
-	"theme": "Soda Light 3.sublime-theme"
+	"theme": "Soda Light 3.sublime-theme",
+
+	"trim_trailing_white_space_on_save": true,
+	"translate_tabs_to_spaces": true
 }
