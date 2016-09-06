@@ -1,9 +1,9 @@
-cmd line
----
 
 ##packages install
 
 - install markdown preview using ctrl + shift + p > install packages
+
+- install terminal in the above manner
 
 - install livereload using the same procedure
 

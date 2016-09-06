@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/C/Users/chirag.ahuja/Desktop/wifiprofileconfig",
 		"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data"
 	],
 	"last_version": 3114,
@@ -253,14 +254,11 @@
 			"buffers":
 			[
 				{
-					"contents": "# guess the number game\n\nimport random\n\nname = input(\"Enter your name: \")\n\nprint(\"Well \"+ name +\", I am thinking of a number between 1 and 20\")\n\nnumOfGuesses = 0\n\n    def helloWorld():\n        print('hello')\n\nsecretNum = random.randint(1,20)\nmaxNumberOfGuesses = 5\n\nguessTaken = int(input(\"Take a guess: \"))\n\n\nwhile True:\n    \n    global numOfGuesses\n\n    if numOfGuesses >= 5:\n        print(\"Nope. The number I was thinking of was \" + str(secretNum))\n        break\n    elif guessTaken == secretNum:\n        print(\"Congratulations! You guessed the correct num in \" + str(numOfGuesses+1) + \" ;number of guesses\" )\n        break\n    elif guessTaken < secretNum:\n        print('Your guess is too low')\n        numOfGuesses = numOfGuesses + 1\n        guessTaken = int(input(\"Take another guess: \"))\n    elif guessTaken > secretNum:\n        print(\"Your guess is too high\")\n        numOfGuesses = numOfGuesses + 1\n        guessTaken = int(input(\"Take another guess: \"))\n\n        \n    \n",
-					"file": "/C/Users/chirag.ahuja/Documents/test.py",
-					"file_size": 1011,
-					"file_write_time": 131176477322271569,
+					"file": "/C/Users/chirag.ahuja/Desktop/wifiprofileconfig/WifiProfileList.java",
 					"settings":
 					{
-						"buffer_size": 979,
-						"line_ending": "Windows"
+						"buffer_size": 18069,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -271,16 +269,24 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 110.0,
-				"last_filter": "rremove",
+				"height": 235.0,
+				"last_filter": "insta",
 				"selected_items":
 				[
 					[
-						"rremove",
-						"Package Control: Remove Package"
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
 						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"rremove",
 						"Package Control: Remove Package"
 					],
 					[
@@ -289,10 +295,6 @@
 					],
 					[
 						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -310,10 +312,6 @@
 					[
 						"mar",
 						"Set Syntax: Markdown"
-					],
-					[
-						"remov",
-						"Package Control: Remove Package"
 					],
 					[
 						"mark",
@@ -352,9 +350,15 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/C/Users/chirag.ahuja/Desktop/wifiprofileconfig"
+			],
 			"file_history":
 			[
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/test.py",
 				"/C/Users/chirag.ahuja/Desktop/settings_wifi_combined/WifiTeamApp/app/src/main/AndroidManifest.xml",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/chirag.ahuja/Documents/test.java",
@@ -363,9 +367,7 @@
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/test.md",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Python.sublime-settings",
-				"/C/Users/chirag.ahuja/Documents/test.py",
 				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
 				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
 				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
@@ -393,6 +395,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"minimap",
 					"wifi",
 					"prompt",
 					"open",
@@ -431,6 +434,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\chirag.ahuja\\Desktop\\wifiprofileconfig"
+				}
+			],
 			"groups":
 			[
 				{
@@ -439,29 +448,29 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/chirag.ahuja/Documents/test.py",
+							"file": "/C/Users/chirag.ahuja/Desktop/wifiprofileconfig/WifiProfileList.java",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 979,
+								"buffer_size": 18069,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										241,
-										241
+										17502,
+										17502
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
+									"syntax": "Packages/Java/Java.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.x": -0.0,
+								"translation.y": 4672.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -525,7 +534,7 @@
 				[
 					[
 						"",
-						"C:\\Users\\chirag.ahuja\\Documents\\GitHub\\environment-setup\\portable\\portable3\\Sublime Text Build 3114\\Data\\Packages\\Default\\Preferences.sublime-settings"
+						"WifiProfileList.java"
 					]
 				],
 				"width": 0.0
@@ -552,7 +561,7 @@
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
