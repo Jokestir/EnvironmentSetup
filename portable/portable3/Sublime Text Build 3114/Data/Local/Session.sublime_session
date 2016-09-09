@@ -254,11 +254,11 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/chirag.ahuja/Desktop/wifiprofileconfig/WifiProfileList.java",
+					"file": "/C/Users/chira/Desktop/test.java",
 					"settings":
 					{
-						"buffer_size": 18069,
-						"line_ending": "Unix"
+						"buffer_size": 117,
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -352,10 +352,11 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/chirag.ahuja/Desktop/wifiprofileconfig"
 			],
 			"file_history":
 			[
+				"/C/Users/chira/Desktop/test.java",
+				"/C/Users/chirag.ahuja/Desktop/wifiprofileconfig/WifiProfileList.java",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/chirag.ahuja/Documents/test.py",
@@ -448,29 +449,27 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/chirag.ahuja/Desktop/wifiprofileconfig/WifiProfileList.java",
+							"file": "/C/Users/chira/Desktop/test.java",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 18069,
+								"buffer_size": 117,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										17502,
-										17502
+										115,
+										115
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Java/Java.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Java/Java.sublime-syntax"
 								},
-								"translation.x": -0.0,
-								"translation.y": 4672.0,
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -519,7 +518,7 @@
 				"height": 120.0
 			},
 			"pinned_build_system": "Packages/Java/JavaC.sublime-build",
-			"position": "0,2,3,-1,-1,-1,-1,628,234,89,890",
+			"position": "0,2,1,-32000,-32000,-1,-1,628,234,89,890",
 			"project": "",
 			"replace":
 			{
@@ -534,7 +533,7 @@
 				[
 					[
 						"",
-						"WifiProfileList.java"
+						"untitled"
 					]
 				],
 				"width": 0.0
