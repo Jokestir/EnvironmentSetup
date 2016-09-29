@@ -1,11 +1,12 @@
 {
 	"folder_history":
 	[
+		"/C/Users/chira/Desktop/java_notes",
 		"/C/Users/chirag.ahuja/Desktop/wifiprofileconfig",
 		"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data"
 	],
 	"last_version": 3114,
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"log_indexing": false,
 	"settings":
 	{
@@ -28,21 +29,41 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 260.0,
-				"last_filter": "liver",
+				"height": 235.0,
+				"last_filter": "insta",
 				"selected_items":
 				[
 					[
-						"liver",
-						"LiveReload: Enable/disable plug-ins"
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"rremove",
+						"Package Control: Remove Package"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"liver",
+						"LiveReload: Enable/disable plug-ins"
 					],
 					[
 						"preview",
@@ -53,16 +74,8 @@
 						"Set Syntax: Markdown"
 					],
 					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
 						"mark",
 						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"booka",
@@ -77,7 +90,7 @@
 						"Preferences: Browse Packages"
 					]
 				],
-				"width": 400.0
+				"width": 386.0
 			},
 			"console":
 			{
@@ -99,15 +112,29 @@
 			},
 			"file_history":
 			[
-				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/test.md",
+				"/C/Users/chira/Desktop/java_notes/mkdocs.yml",
+				"/C/Users/chira/Desktop/java_notes/extra_css/extra.css",
+				"/C/Users/chira/Desktop/java_notes/docs/index.md",
+				"/C/Users/chira/Desktop/java_notes/site/about/index.html",
+				"/C/Users/chira/Desktop/java_notes/site/versions.html",
+				"/C/Users/chira/Desktop/java_notes/site/toc.html",
+				"/C/Users/chira/Desktop/java_notes/site/index.html",
+				"/C/Users/chira/Desktop/java_notes/site/footer.html",
+				"/C/Users/chira/Desktop/java_notes/docs/about.md",
+				"/C/Users/chira/Desktop/test.java",
+				"/C/Users/chirag.ahuja/Desktop/wifiprofileconfig/WifiProfileList.java",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
-				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Default (Windows).sublime-keymap",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/chirag.ahuja/Documents/test.java",
-				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
-				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Python.sublime-settings",
 				"/C/Users/chirag.ahuja/Documents/test.py",
+				"/C/Users/chirag.ahuja/Desktop/settings_wifi_combined/WifiTeamApp/app/src/main/AndroidManifest.xml",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/chirag.ahuja/Documents/test.java",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/XML.sublime-settings",
+				"/C/Users/chirag.ahuja/Desktop/test.java",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/test.md",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Python.sublime-settings",
 				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
 				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/User/Java.sublime-settings",
 				"/C/Users/chirag.ahuja/Desktop/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
@@ -120,7 +147,7 @@
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
@@ -135,6 +162,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"minimap",
+					"wifi",
 					"prompt",
 					"open",
 					"new_",
@@ -203,7 +232,7 @@
 				[
 					[
 						"",
-						"C:\\Users\\chirag.ahuja\\Documents\\GitHub\\environment-setup\\portable\\portable3\\Sublime Text Build 3114\\Data\\Packages\\Default\\Preferences.sublime-settings"
+						"untitled"
 					]
 				],
 				"width": 0.0
@@ -226,7 +255,7 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
@@ -254,10 +283,10 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/chira/Desktop/test.java",
+					"contents": "",
 					"settings":
 					{
-						"buffer_size": 117,
+						"buffer_size": 0,
 						"line_ending": "Windows"
 					}
 				}
@@ -352,10 +381,26 @@
 			},
 			"expanded_folders":
 			[
+				"/C/Users/chirag.ahuja/Desktop/wifiprofileconfig"
 			],
 			"file_history":
 			[
+				"/C/Users/chira/Desktop/scripts/show_cordiantes.py",
+				"/C/Users/chira/Desktop/git_guide/git_notes/mkdocs.yml",
+				"/C/Users/chira/Desktop/python_notes/python_notes/mkdocs.yml",
+				"/C/Users/chira/Desktop/designpatterns_notes/design_patterns/mkdocs.yml",
+				"/C/Users/chira/Desktop/algo_notes/algo_notes/mkdocs.yml",
+				"/C/Users/chira/Desktop/android_notes/android_notes/mkdocs.yml",
+				"/C/Users/chira/Desktop/java_notes/mkdocs.yml",
 				"/C/Users/chira/Desktop/test.java",
+				"/C/Users/chira/Desktop/java_notes/extra_css/extra.css",
+				"/C/Users/chira/Desktop/java_notes/docs/index.md",
+				"/C/Users/chira/Desktop/java_notes/site/about/index.html",
+				"/C/Users/chira/Desktop/java_notes/site/versions.html",
+				"/C/Users/chira/Desktop/java_notes/site/toc.html",
+				"/C/Users/chira/Desktop/java_notes/site/index.html",
+				"/C/Users/chira/Desktop/java_notes/site/footer.html",
+				"/C/Users/chira/Desktop/java_notes/docs/about.md",
 				"/C/Users/chirag.ahuja/Desktop/wifiprofileconfig/WifiProfileList.java",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/User/Preferences.sublime-settings",
 				"/C/Users/chirag.ahuja/Documents/GitHub/environment-setup/portable/portable3/Sublime Text Build 3114/Data/Packages/Default/Preferences.sublime-settings",
@@ -449,24 +494,24 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/chira/Desktop/test.java",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 117,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										115,
-										115
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Java/Java.sublime-syntax"
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -518,7 +563,7 @@
 				"height": 120.0
 			},
 			"pinned_build_system": "Packages/Java/JavaC.sublime-build",
-			"position": "0,2,1,-32000,-32000,-1,-1,628,234,89,890",
+			"position": "0,2,3,-32000,-32000,-1,-1,940,394,401,1050",
 			"project": "",
 			"replace":
 			{

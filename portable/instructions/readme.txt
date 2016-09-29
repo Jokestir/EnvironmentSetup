@@ -15,6 +15,9 @@
 - install styletoken 
 
 		https://packagecontrol.io/packages/StyleToken
+		
+- install allautocomplete from command pallette
+- install autofilename
 
 
 ### keybindings
