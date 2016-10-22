@@ -19,6 +19,7 @@
 - install allautocomplete from command pallette
 - install autofilename
 - install sublime bookmarks
+- install Git by kemayo
 
 
 ### keybindings
