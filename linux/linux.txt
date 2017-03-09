@@ -1,0 +1,64 @@
+												==================================
+															Linux Setup
+												==================================
+
+
+
+GNOME
+========================================
+
++ Install GNOME DE.
+
++ Paper GTK+ theme
+
++ Numix Circle Icons
+
++ xenlism desktop backgrounds
+
+
+Extensions
+==========================================
+
+(download from gnome look or google)
+
++ Activities Configurator : To make top bar transparent and other improvements
+
++ Dash to Dock – To make the dock @ bottom and transparent
+
++ Coverflow (Alt- TAB)
+
++ BackSlide for desktop wallpaper
+
++ PutWindow
+
+
+Shortcuts
+==========================================
+
++ Win + TAB
+
++ Alt + TAB
+
++ Ctrl + Shift + T
+
++ super + D (or control + D)
+
++ super
+
++  Alt + F4
+
++ Win + up
+
++ Win + down
+
+
+Terminal
+==========================================
+
++ Guake terminal
+
++ F12 – terminal appears
+
++ Ctrl + T – new tab
+
++ Ctrl + W – close tab
