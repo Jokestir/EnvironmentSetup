@@ -55,10 +55,14 @@ Shortcuts
 Terminal
 ==========================================
 
-+ Guake terminal
++ Yakuake terminal
 
 + F12 – terminal appears
 
 + Ctrl + T – new tab
 
 + Ctrl + W – close tab
+
++ Ctrl + Tab - next tab
+
++ Ctrl +Shift + Tab - previous tab
