@@ -1,0 +1,71 @@
+changes to intellig
+
+1. Change font size to 13 and Roboto Mono.
+
+2. View > Hide Navigation Bar. View > Active Editor > Hide indent guides. View > Hide Status Bar.
+
+3. Change comment color to orange.
+
+4. Keymaps
+
+    Distraction free mode - Ctrl + D.
+
+    Slide in out project bar - Alt + 1
+
+    Goto file               -  Ctrl + Shift + F
+
+    Go to method,members    - Ctrl + M
+
+    Search Project          - Shift * 2
+
+    Hierarchy               - Ctrl + H
+
+    Split vertically        - Ctrl + SHift + V
+
+    Build and Run           - Ctrl + R
+
+    Run local module        - Ctrl + Shift + R
+
+    Terminal                - Ctrl + Shiift + T
+
+    Select line             - Ctrl + L
+
+    new tab, cloase tab etc - like browser
+
+    Toggle bookmark         - Ctrl + B
+
+    SHow bookmarks          - Ctrl + Shift + B
+
+    Next bookmark           - Alt + B
+
+    Previous bookmark       - Alt + Shift + B
+
+    Clear bookmarks         - Ctrl + Shift + F2
+
+    Code Complettion       - Ctrl + Space
+
+    Smart Code completion  - Ctrl  +Shift + Space
+
+    Generate Code          - Ctrl + I
+
+    Extend selection       - Ctrl + E
+
+    Override               - Ctrl + O
+
+    Documentation          - Ctrl + Q
+
+    Comment                - Ctrl + /
+
+    Uncomment              - Ctrl +SHift + /
+
+    Intention actions/ QUick fix - Alt + Enter
+
+    Go back to editor       - Shift + Esc
+
+    Cyclic word             - Alt + C
+
+    New Java File           - Ctrl + T
+
+    Go to definition        - Ctrl + K
+
+    Command lookup          - Ctrl + Shift + P
