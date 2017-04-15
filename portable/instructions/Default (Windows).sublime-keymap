@@ -1,3 +1,27 @@
 [
 { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+{ "keys": ["ctrl+d"], "command": "toggle_distraction_free" },
+{ "keys": ["alt+1"], "command": "toggle_side_bar" },
+{ "keys": ["ctrl+shift+f"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+{ "keys": ["ctrl+m"], "command": "goto_symbol_in_project" },
+{ "keys": ["ctrl+q"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+{
+        "keys": ["ctrl+shift+v"],
+        "command": "set_layout",
+        "args":
+        {
+            "cols": [0.0, 0.5, 1.0],
+            "rows": [0.0, 1.0],
+            "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+        }
+    },
+
+    { "keys": ["ctrl+r"], "command": "build", "args": {"select": true} },
+
+    { "keys": ["alt+b"], "command": "next_bookmark" },
+    { "keys": ["alt+shift+f2"], "command": "prev_bookmark" },
+    { "keys": ["ctrl+b"], "command": "toggle_bookmark" },
+    { "keys": ["ctrl+shift+b"], "command": "clear_bookmarks" }
+
+
 ]
