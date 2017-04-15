@@ -69,3 +69,5 @@ changes to intellig
     Go to definition        - Ctrl + K
 
     Command lookup          - Ctrl + Shift + P
+
+    File structure          - Ctrl + Shift + S
